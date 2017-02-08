@@ -1,0 +1,7 @@
+{
+  "generator-phaser": {
+    "projectName": "successor-kingdoms",
+    "esVersion": 6,
+    "gameFolder": "game"
+  }
+}
